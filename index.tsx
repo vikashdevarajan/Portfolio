@@ -68,7 +68,7 @@ const CONTACT: ContactInfo = {
   location: "Coimbatore, India"
 };
 
-const RESUME_PATH = "./Vikash_Resume.pdf";
+const RESUME_PATH = "/Vikash_Resume.pdf";
 
 const CURRENTLY_LEARNING = [
   "Tinkering with Rust & Actix Web",
@@ -106,7 +106,7 @@ const EDUCATION_DATA: Education = {
   period: "Graduating 2026",
   cgpa: "7.52",
   location: "Coimbatore, India",
-  logo: "./cit_logo.png"
+  logo: "/cit_logo.png"  // Changed from "./cit_logo.png" to "/cit_logo.png"
 };
 
 const EXTRACURRICULARS_DATA: Extracurricular[] = [
