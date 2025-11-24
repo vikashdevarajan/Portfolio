@@ -10,7 +10,7 @@ export const CONTACT: ContactInfo = {
 };
 
 // Place your resume file in the public/ folder with this name
-export const RESUME_PATH = "./Vikash_Resume.pdf";
+export const RESUME_PATH = "/Vikash_Resume.pdf";
 
 export const CURRENTLY_LEARNING = [
   "Tinkering with Rust & Actix Web",
